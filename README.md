@@ -131,6 +131,7 @@
 <div align="space-between">  
   <img src="https://github.com/ShinsegaePointCloneCode/Back/blob/develop/exec/captureImg/38.png" width="200" height="400"/>
   <img src="https://github.com/ShinsegaePointCloneCode/Back/blob/develop/exec/captureImg/39.png" width="200" height="400"/>
+  <img src="https://github.com/ShinsegaePointCloneCode/Back/blob/develop/exec/captureImg/40.png" width="200" height="400"/>
 </div>
 
 - 진행 이벤트, 종료 이벤트, 당첨 이벤트를 확인할 수 있습니다.
@@ -140,8 +141,8 @@
 
 ### 8) 쿠폰 기능
 <div align="space-between">  
-  <img src="https://github.com/ShinsegaePointCloneCode/Back/blob/develop/exec/captureImg/40.png" width="200" height="400"/>
   <img src="https://github.com/ShinsegaePointCloneCode/Back/blob/develop/exec/captureImg/41.png" width="200" height="400"/>
+  <img src="https://github.com/ShinsegaePointCloneCode/Back/blob/develop/exec/captureImg/42.png" width="200" height="400"/>
 </div>
 
 - 다양한 쿠폰을 제공합니다.
