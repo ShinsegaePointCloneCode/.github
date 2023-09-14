@@ -153,10 +153,9 @@
 
 <br>
 
-## 📃 데이터 명세
+## 🚀 아키텍쳐
 
-
-<br>
+<img src="https://github.com/ShinsegaePointCloneCode/Back/blob/develop/exec/%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90.png"/>
 
 ## 🏋️‍♂️ 기술 스택
 ### Frontend  
