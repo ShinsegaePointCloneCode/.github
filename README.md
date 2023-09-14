@@ -27,7 +27,7 @@
 
 ## ✨ 기능 및 화면
 ### 1) 메인 화면
-### Frontend  
+
 <div align="space-between">  
   <img src="https://github.com/ShinsegaePointCloneCode/Back/blob/develop/exec/captureImg/1.png" width="200" height="400"/>
   <img src="https://github.com/ShinsegaePointCloneCode/Back/blob/develop/exec/captureImg/4.png" width="200" height="400"/>
@@ -36,10 +36,10 @@
 
 - 모든 서비스를 접근 할수 있는 페이지 입니다.
 <br>
-<div align="space-between">  
-  <img src="https://github.com/ShinsegaePointCloneCode/Back/blob/develop/exec/captureImg/2.png" width="200" height="400"/>
+
+  <img src="https://github.com/ShinsegaePointCloneCode/Back/blob/develop/exec/captureImg/2.png" width="200" height="100"/>
   <img src="https://github.com/ShinsegaePointCloneCode/Back/blob/develop/exec/captureImg/3.png" width="200" height="400"/>
-</div>
+
 
 - 앱으로 설치해서 PWA를 이용해서 볼수 있는 기능을 제공합니다.
 
