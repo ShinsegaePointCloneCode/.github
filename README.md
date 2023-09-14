@@ -196,16 +196,6 @@
 
 <br>
 
-## ⚙ 아키텍처
-
-
-<br>
-
-## 🖥️ 실행 방법
-[포팅 메뉴얼]()에 자세히 작성되어 있습니다😊 참고해 주세요 !
-
-<br>
-
 ## 팀원 소개
   <img src="https://github.com/ShinsegaePointCloneCode/Back/blob/develop/exec/%ED%8C%80%EC%9B%90.png"/>
 
